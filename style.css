@@ -273,7 +273,8 @@ span{
 }
 .textsec3{
     font-family: text;
-    font-size: 30px;
+    
+    font-size: 300%;
     padding-top: 100px;
     margin-bottom: 100px;
     color: #d4d4d4;

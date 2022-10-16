@@ -1,7 +1,7 @@
 var i = 0;
 window.onscroll = () => {
     if((window.innerHeight + window.pageYOffset)>=document.body.offsetHeight && i == 0){
-        alert("You are at the end of the page click at select option and see the surprise!!");
+        alert("You are at the end of the page! click at choose here and see the surprise and my contact!!");
         i=i+1;
     }else{
         console.log("1")
